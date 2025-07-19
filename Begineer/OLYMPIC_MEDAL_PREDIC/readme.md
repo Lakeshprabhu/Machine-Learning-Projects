@@ -56,5 +56,5 @@ teams.csv — Cleaned and processed team-level dataset used in the ML model
 
 Improvements / Novelty
 
-Additionally , I have also managed to create a another model in the second half of the project which provides more accurate predictions to the medals actually won .
+Additionally , I have also managed to create a another model in the second half of the project which provides more accurate predictions to the medals actually won by applying upperlimits to values in the datasets and performed log arithmic operations on them
 
