@@ -9,26 +9,25 @@ By the end of this project, you'll understand the full machine learning workflow
 Machine learning projects typically follow a consistent structure. This tutorial follows that same structure to help build your foundation for tackling future ML problems.
 
 ✅ Project Steps
-Formulate a hypothesis
+1.Formulate a hypothesis
 
-Locate and explore the dataset
+2.Locate and explore the dataset
 
-(If needed) Reshape the data for the prediction task
+3.(If needed) Reshape the data for the prediction task
 
-Clean and preprocess the data
+4.Clean and preprocess the data
 
-Choose an error metric
+5.Choose an error metric
 
-Split the dataset into training and test sets
+6.Split the dataset into training and test sets
 
-Train and evaluate a model
+7.Train and evaluate a model
 
 💻 Code Files
 This project was developed in Google Colab and includes the following notebooks:
 
-machine_learning.ipynb — Main notebook implementing the ML pipeline
+OLYMPIC_MEDAL_PREDICTIONS_FOR_COUNTRIES (1).ipynb — Main notebook implementing the ML pipeline
 
-data_prep.ipynb — Helper notebook for converting raw athlete-level data into team-level summaries
 
 ⚙️ Running the Project in Colab
 No local installation is required! You can run the project entirely in the cloud using Google Colab. Simply open the notebooks directly via the Colab links provided in this repository.
@@ -54,4 +53,8 @@ The data used in this project is derived from historical Olympic Games data, ori
 Files used:
 
 teams.csv — Cleaned and processed team-level dataset used in the ML model
+
+Improvements / Novelty
+
+Additionally , I have also managed to create a another model in the second half of the project which provides more accurate predictions to the medals actually won .
 
