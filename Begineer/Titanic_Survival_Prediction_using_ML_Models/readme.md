@@ -1,4 +1,4 @@
-🚢 Titanic Survival Prediction
+#🚢 Titanic Survival Prediction
 
 
 This project predicts the survival of passengers on the Titanic using machine learning models after performing exploratory data analysis (EDA) and preprocessing. 
