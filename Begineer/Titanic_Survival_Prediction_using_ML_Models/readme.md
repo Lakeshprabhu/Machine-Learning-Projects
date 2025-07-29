@@ -1,4 +1,6 @@
 🚢 Titanic Survival Prediction
+
+
 This project predicts the survival of passengers on the Titanic using machine learning models after performing exploratory data analysis (EDA) and preprocessing. 
 Various classification models were evaluated, and K-Nearest Neighbors (KNN) gave the best performance on the testing dataset.
 
