@@ -6,14 +6,10 @@ This project predicts housing prices for properties in **New York** and **Califo
 - **Random Forest Regressor**
 
 ## Dataset
-The dataset includes housing features such as:
-- Area (square footage)
-- Number of bathrooms
-- Number of stories
-- Parking spaces
-- Price (target variable)
+The dataset includes housing features which will be used to predict the housing prices in both the datasets which include the states : - 
+- New York
+- California
 
-Filtered data covers only **New York** and **California**.
 
 ## Approach
 1. Data cleaning and feature selection.
