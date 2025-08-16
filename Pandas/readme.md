@@ -8,7 +8,7 @@ A collection of examples for **data loading, cleaning, transformation, and visua
 - Group, aggregate, and pivot data
 - Merge and join tables
 - Time-series handling
-- Basic plots with Matplotlib & Seaborn
+
 
 ## 📊 Example
 ```python
