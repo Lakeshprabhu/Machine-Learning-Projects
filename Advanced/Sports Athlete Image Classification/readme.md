@@ -51,3 +51,7 @@ The trained model is loaded in Flask for real-time predictions.
 Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
 
 ---
+
+
+<img width="1632" height="810" alt="image" src="https://github.com/user-attachments/assets/84a329a2-de00-4df4-8f2e-203f8bc76129" />
+
